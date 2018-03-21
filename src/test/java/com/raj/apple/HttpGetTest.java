@@ -1,6 +1,6 @@
 package com.raj.apple;
 
-import com.raj.apple.pojo.User;
+import com.raj.apple.rest.User;
 import com.raj.apple.utility.ApiOperations;
 import org.apache.http.HttpResponse;
 import org.testng.annotations.BeforeClass;

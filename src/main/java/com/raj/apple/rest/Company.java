@@ -1,5 +1,5 @@
 
-package com.raj.apple.pojo;
+package com.raj.apple.rest;
 
 import java.util.HashMap;
 import java.util.Map;

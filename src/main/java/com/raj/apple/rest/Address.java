@@ -1,5 +1,5 @@
 
-package com.raj.apple.pojo;
+package com.raj.apple.rest;
 
 import com.fasterxml.jackson.annotation.*;
 
