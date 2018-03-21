@@ -12,4 +12,5 @@ public class ConstantValues {
     public static final String TEXT_FOR_SEARCH = "i just need once chance";
     public static final String USERNAME = "messi_barcelona@icloud.com";
     public static final String PASSWORD = "Messi@091";
+    public static final String URL_FOR_HTTP_GET_TEST = "https://jsonplaceholder.typicode.com/users";
 }
